@@ -1,0 +1,15 @@
+body {
+  background: pink;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.block {
+  width: 100px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
